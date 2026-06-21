@@ -1,0 +1,45 @@
+# Privacy Policy for Cipher Discord Bot
+
+**Effective Date:** June 21, 2026
+
+Thank you for using **Cipher**. Your privacy is incredibly important to us. This Privacy Policy explains what data Cipher collects, how it is used, and how we protect it.
+
+By inviting Cipher to your server or interacting with it, you agree to the terms outlined in this policy.
+
+---
+
+## 1. Data We Collect
+To function properly as an all-in-one multipurpose bot, Cipher processes and stores limited data from Discord. This data includes:
+
+*   **User Information:** Discord User IDs, usernames, and avatars (used to process commands, track XP/economy, or manage moderation actions).
+*   **Server Information:** Server (Guild) IDs, channel IDs, role IDs, and your custom configurations (such as custom prefixes, welcome messages, or logging channels).
+*   **Content Data:** Cipher does not read or log your regular chat conversations. It only processes message content when explicitly triggered by a command or an active feature (e.g., auto-moderation filters).
+*   **Technical Logs:** Temporary logs (e.g., error codes, command usage statistics) to help troubleshoot bugs and improve performance.
+
+## 2. How We Use the Data
+We use the collected information strictly to provide and improve Cipher’s features, including:
+*   Executing moderation commands (kicks, bans, warns).
+*   Saving server-specific settings and configurations.
+*   Managing fun features like leveling, economy, or utility commands.
+*   Ensuring the security and stability of the Bot.
+
+**We do not sell, rent, or trade your data to third parties under any circumstances.**
+
+## 3. Data Storage and Security
+*   **Retention:** We only store data for as long as it is necessary to provide the Bot's services. If Cipher is removed from a server, that server's configuration data is typically deleted from our database within `[e.g., 30 days / immediately]`.
+*   **Security:** We implement industry-standard security measures to protect your stored data from unauthorized access, alteration, or disclosure.
+
+## 4. Your Rights and Data Deletion
+You have complete control over your data. If you wish to have your user data or server data removed from Cipher's database, you can:
+*   Remove (kick) the Bot from your server, which will stop all future data collection for that server.
+*   Contact us directly through our Support Server or via email to request a manual data wipe.
+
+## 5. Third-Party Services
+Cipher is built using the Discord API. Your use of Cipher is also subject to the **Discord Terms of Service** and **Discord Privacy Policy**. We are not responsible for how Discord handles your data.
+
+## 6. Contact and Support
+If you have any questions, concerns, or requests regarding your privacy and data, please reach out to us:
+
+*   **Developer/Owner:** username:` [23.xo](https://discord.com/users/1061339539840446504) `
+*   **Support Server:** ` https://discord.gg/mardSRHJDQ `
+*   **Contact Email:** `garvitchoudhary2315@gmail.com`
